@@ -3,7 +3,7 @@
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/102763898?v=4" alt="Foto de Victor Amarante"/><br>
   <br>
-  <a href="https://www.linkedin.com/in/vamarante/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vamarante/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
